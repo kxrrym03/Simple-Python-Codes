@@ -1,1 +1,1 @@
-This contains sample basic pythin codes to sharpen my programming skills
+This contains sample basic python codes to sharpen my programming skills
