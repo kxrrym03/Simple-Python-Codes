@@ -1,1 +1,1 @@
-This contains sample basic python codes to sharpen my programming skills
+This contains sample calculator where one can perform operations like addition, subtraction, multiplication and division.
